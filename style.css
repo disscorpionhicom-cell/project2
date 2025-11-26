@@ -1,0 +1,175 @@
+ *{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+ }
+
+ 
+ 
+ body{
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        color: #333;
+    }
+
+ header{
+        background-color: #8000ff;
+        color: white;
+        padding: 10px 0;
+        text-align: center;
+    }
+    .logo {
+            width: 50px;
+            height: auto;
+            display: flex;
+            justify-content: left;
+        }
+
+    nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+
+nav a {
+        text-decoration: none;
+        color: #000000;
+        font-weight: bold;
+        padding: 10px 15px;
+    }
+
+    content {
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .get-started {
+        text-align: center;
+        color: rgb(79, 42, 189);
+        text-decoration: none;
+        border-radius: 5px;
+        font-weight: bold;
+        background: #ffffff99;
+        background-blend-mode: lighten;
+    }
+    
+    .start-button {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #8000ff;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        font-weight: bold;
+    }
+
+.artwork {
+        margin: 10px;
+        text-align: center;
+        background: #ffffff99;
+        background-blend-mode: lighten;
+    }
+
+    .artwork img {
+        max-width: 100%;
+        height: auto;
+        
+    }
+
+    .Creations {
+        text-align: center;
+        margin-top: 20px;
+        background: #ffffff99;
+        background-blend-mode: lighten;
+    }
+    .CompanyName {
+        text-align: left;
+        font-size: 24px;
+        font-weight: bold;
+        margin-top: 10px;
+        color: #ffffff;
+    }
+
+    .features {
+        margin-bottom: 20px;
+        text-align: center;
+        background: #ffffff99;
+        background-blend-mode: lighten;
+        
+    }
+
+    .welcome-message {
+        text-align: center;
+        margin-bottom: 20px;
+        padding: 80px 20px;
+        background-size: cover;
+        background-position: center;
+        background: #ffffff99;
+        background-blend-mode: lighten;
+    }
+
+   .products-content {
+        text-align: center;
+        font-size: large;
+        padding : 5px 50px;
+        background: #ffffff99;
+        background-blend-mode: lighten;
+    }
+
+    .aboutus-content {
+        text-align: center;
+        font-size: large;
+        padding : 5px 50px;
+        background: #ffffff99;
+        background-blend-mode: lighten;
+    
+    }
+    .contactus-content {
+        text-align: center;
+        font-size: large;
+        padding : 5px 25px;
+        background: #ffffff99;
+        background-blend-mode: lighten;
+    }
+
+    .Pen-Tablet li {
+        text-align: center;
+        padding: 5px 0px;
+            font-size: large;
+        }
+
+    .Stylus-Pen li {
+        text-align: center;
+        padding: 5px 0px;
+            font-size: large;
+        }
+
+    .Drawing-Pads li {
+        text-align: center;
+        padding: 5px 0px;
+            font-size: large;
+        }
+    
+    .glove li {
+        text-align: center;
+        padding: 5px 0px;
+            font-size: large;
+        }
+
+    .Tablet-Stand li {
+        text-align: center;
+        padding: 5px 0px;
+            font-size: large;
+        }
+
+    .Screen-Protectors li {
+        text-align: center;
+        padding: 5px 0px;
+            font-size: large;
+        }
+
+
